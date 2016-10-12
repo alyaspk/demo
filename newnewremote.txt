@@ -1,0 +1,3 @@
+Hello,
+
+I am new remote text file, should be synced locally.
